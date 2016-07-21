@@ -1,7 +1,8 @@
-#limit the number of guesses
-#catch when user enters a non-integer
-#print 'too high' or 'too low' for incorrect guesses
-#let the user play again
+# objectives:
+# limit the number of guesses
+# catch when user enters a non-integer
+# print 'too high' or 'too low' for incorrect guesses
+# let the user play again
 
 import random
 
